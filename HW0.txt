@@ -1,0 +1,7 @@
+Q1. Intended platform for final project (e.g. Android, iOS) - Android
+Q2. Intended framework/programming language for your final project (e.g. Kotlin, Swift) - Kotlin
+Q3. Whether you want to explore cross-platform development - Maybe
+Q4. Include a brief explanation for your selections - I am an Android user since 2013. 
+    I have a software industry experience in working with Android Studio for mobile application development. 
+    In addition to that, I have also worked with Ionic framework which helped me build different application pages.
+    I want to be proficient in Kotlin by the end of this course.
